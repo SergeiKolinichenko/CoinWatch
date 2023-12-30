@@ -1,0 +1,28 @@
+<resources>
+  <string name="app_name">CoinWatch</string>
+  <string name="nav_item_favorite_coin_pairs">Selected pairs of coins</string>
+  <string name="nav_item_select_crypto_currency">Choose a pair from a crypto resource</string>
+  <string name="nav_item_select_fiat_currency">Choose a pair from a fiat resource</string>
+  <string name="crypto_coin_name">Crypto coin name</string>
+  <string name="last_update_date_pair_price">Last Update</string>
+  <string name="missing_transaction_date_crypto_pair_price">Missing transaction date</string>
+  <string name="title_cripto_pair_price">Exchange rate</string>
+  <string name="no_exchange_value_crypto_pair_price">No exchange value</string>
+  <string name="no_coin_symbol_crypto_pair_price">No coin symbol</string>
+  <string name="enter_the_name_of_the_desired_coin">Enter the name of the desired coin…</string>
+  <string name="alert_dialog_title_selecting_the_first_character">Selecting the first character!</string>
+  <string name="alert_dialog_text_is_the_first_element_of_a_currency_pair">\"%1$s\" - is the first element of a currency pair?</string>
+  <string name="alert_dialog_title_selecting_the_second_character">Selecting the second character!</string>
+  <string name="alert_dialog_text_is_the_second_element_of_a_currency_pair">\"%1$s\" - is the second element of a currency pair?</string>
+  <string name="snackbar_message_do_you_wish_to_continue_choosing_currency_pairs">Do you wish to continue choosing currency pairs?</string>
+  <string name="snackbar_message_resource_does_not_provide_data_on_selected_pair_of_coins">The resource does not provide data on the selected pair of coins \"%1$s\".\n Do you want to choose another pair of coins?</string>
+  <string name="search_bar_icon_description_clear_window_contents">Clear window contents</string>
+  <string name="search_bar_icon_description_find_the_coin">Find the coin</string>
+  <string name="snackbar_message_select_the_second_coin_of_the_pair">Select the second coin of the pair</string>
+  <string name="snackbar_message_select_the_first_coin_of_the_pair">Select the first coin of the pair</string>
+  <string name="snackbar_action_label_yes">Yes</string>
+  <string name="nav_item_quit_the_application">Quit the application</string>
+  <string name="alert_dialog_button_confirm">Confirm</string>
+  <string name="alert_dialog_button_dismiss">Dismiss</string>
+  <string name="error_message_error_getting_coins_list">Error getting coins list: %1$s</string>
+</resources>

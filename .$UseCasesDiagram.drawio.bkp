@@ -1,0 +1,42 @@
+<mxfile host="Electron" modified="2023-10-06T15:18:01.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="LSQpW8Sg6_Kc46aYze6i" version="22.0.2" type="device">
+  <diagram id="xo6yHNSu7Ji1LgkYbHNe" name="Страница 1">
+    <mxGraphModel dx="780" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RSRNca-7CVLnFXqqvEL2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.462;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RSRNca-7CVLnFXqqvEL2-1" target="RSRNca-7CVLnFXqqvEL2-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RSRNca-7CVLnFXqqvEL2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RSRNca-7CVLnFXqqvEL2-1" target="RSRNca-7CVLnFXqqvEL2-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wnHRAtQ8zxTAquVMXQHa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="RSRNca-7CVLnFXqqvEL2-1" target="wnHRAtQ8zxTAquVMXQHa-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Av4kSp7ztPgyRxgU58pU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RSRNca-7CVLnFXqqvEL2-1" target="Av4kSp7ztPgyRxgU58pU-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSRNca-7CVLnFXqqvEL2-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="360.13" y="430" width="77.73" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RSRNca-7CVLnFXqqvEL2-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="384" y="444" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSRNca-7CVLnFXqqvEL2-3" value="&lt;pre style=&quot;overflow-wrap: break-word;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;GetCryptocurrencyUseCase&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="420" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RSRNca-7CVLnFXqqvEL2-4" value="GetFiatcurrencyUseCase" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="415" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wnHRAtQ8zxTAquVMXQHa-1" value="&lt;pre style=&quot;color: rgb(255, 255, 255); overflow-wrap: break-word;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-family: Helvetica;&quot;&gt;SetSettings&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-family: Helvetica; white-space: normal;&quot;&gt;UseCase&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="279" y="230" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Av4kSp7ztPgyRxgU58pU-1" value="GetBasketList&lt;br&gt;UseCase" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="279" y="600" width="240" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

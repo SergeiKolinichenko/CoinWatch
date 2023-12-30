@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">КурсовойМонитор</string>
+  <string name="nav_item_favorite_coin_pairs">Избранные пары монет</string>
+  <string name="nav_item_select_crypto_currency">Выберите пару с крипторесурса</string>
+  <string name="crypto_coin_name">Название крипто монеты</string>
+  <string name="last_update_date_pair_price">Последнее обновление</string>
+  <string name="missing_transaction_date_crypto_pair_price">Отсутствие даты транзакции</string>
+  <string name="title_cripto_pair_price">Курс обмена</string>
+  <string name="no_exchange_value_crypto_pair_price">Отсутствие обменной стоимости</string>
+  <string name="no_coin_symbol_crypto_pair_price">Символ монеты отсутствует</string>
+  <string name="enter_the_name_of_the_desired_coin">Введите название нужной монеты…</string>
+  <string name="alert_dialog_title_selecting_the_first_character">Выбор первого символа!</string>
+  <string name="alert_dialog_text_is_the_first_element_of_a_currency_pair">\"%1$s\" - является gthdsv элементом валютной пары?</string>
+  <string name="alert_dialog_title_selecting_the_second_character">Выбор второго символа!</string>
+  <string name="alert_dialog_text_is_the_second_element_of_a_currency_pair">\"%1$s\" - является вторым элементом валютной пары?</string>
+  <string name="snackbar_message_do_you_wish_to_continue_choosing_currency_pairs">Хотите ли Вы продолжить выбор валютных пар?</string>
+  <string name="snackbar_message_resource_does_not_provide_data_on_selected_pair_of_coins">Ресурс не предоставляет данных о выбранной паре монет \"%1$s\".\\n Вы хотите выбрать другую пару монет?</string>
+  <string name="search_bar_icon_description_clear_window_contents">Очистить содержимое окна</string>
+  <string name="search_bar_icon_description_find_the_coin">Найти монету</string>
+  <string name="nav_item_select_fiat_currency">Выбор пары из фиатных ресурсов</string>
+  <string name="snackbar_message_select_the_second_coin_of_the_pair">Выберите вторую монету из пары</string>
+  <string name="snackbar_message_select_the_first_coin_of_the_pair">Выберите первую монету из пары</string>
+  <string name="snackbar_action_label_yes">Да</string>
+  <string name="nav_item_quit_the_application">Выйти из приложения</string>
+  <string name="alert_dialog_button_confirm">Подтвердить</string>
+  <string name="alert_dialog_button_dismiss">Отклонить</string>
+</resources>

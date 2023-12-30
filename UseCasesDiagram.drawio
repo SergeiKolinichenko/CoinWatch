@@ -1,0 +1,90 @@
+<mxfile host="Electron" modified="2023-10-10T10:20:53.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="zeHAJz18snF12M1iIntl" version="22.0.2" type="device">
+  <diagram id="xo6yHNSu7Ji1LgkYbHNe" name="Страница 1">
+    <mxGraphModel dx="1300" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RSRNca-7CVLnFXqqvEL2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RSRNca-7CVLnFXqqvEL2-1" target="RSRNca-7CVLnFXqqvEL2-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Av4kSp7ztPgyRxgU58pU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RSRNca-7CVLnFXqqvEL2-1" target="Av4kSp7ztPgyRxgU58pU-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="579" y="546" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="579" y="526" />
+              <mxPoint x="380" y="526" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x88435J3Upm55wdHFP84-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RSRNca-7CVLnFXqqvEL2-1" target="RSRNca-7CVLnFXqqvEL2-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RSRNca-7CVLnFXqqvEL2-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="540.13" y="386" width="77.73" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RSRNca-7CVLnFXqqvEL2-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="564" y="400" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RSRNca-7CVLnFXqqvEL2-3" value="&lt;pre style=&quot;overflow-wrap: break-word;&quot;&gt;SetSettingsUseCase&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="371" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RSRNca-7CVLnFXqqvEL2-4" value="GetSettings&lt;span style=&quot;color: rgb(255, 255, 255); background-color: initial;&quot;&gt;UseCase&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="860" y="371" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="wnHRAtQ8zxTAquVMXQHa-1" value="&lt;pre style=&quot;color: rgb(255, 255, 255); overflow-wrap: break-word;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;color: rgb(240, 240, 240); overflow-wrap: break-word;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;GetCryptocurrencyUseCase&lt;/font&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="324" y="98" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Av4kSp7ztPgyRxgU58pU-1" value="GetC&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;urrencyList&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); background-color: initial;&quot;&gt;UseCase&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="556" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gi9_3N-FfZ0izFD0XtA_-1" value="&lt;div style=&quot;color: rgb(255, 255, 255); overflow-wrap: break-word;&quot;&gt;&lt;div style=&quot;&quot;&gt;GetFiatcurrencyUseCase&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="594" y="98" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gi9_3N-FfZ0izFD0XtA_-5" value="DeleteC&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;urrency&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 255, 255); background-color: initial;&quot;&gt;UseCase&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="556" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gi9_3N-FfZ0izFD0XtA_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.458;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="gi9_3N-FfZ0izFD0XtA_-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="579" y="486" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="579" y="526" />
+              <mxPoint x="780" y="526" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x88435J3Upm55wdHFP84-1" value="&lt;pre style=&quot;overflow-wrap: break-word;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;overflow-wrap: break-word;&quot;&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43);&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot; color=&quot;#ffffff&quot;&gt;GetCryptoCoinsListUseCase&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="x88435J3Upm55wdHFP84-4" value="&lt;pre style=&quot;overflow-wrap: break-word;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;pre style=&quot;overflow-wrap: break-word;&quot;&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43);&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot; color=&quot;#ffffff&quot;&gt;GetFiatCoinsListUseCase&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="860" y="210" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="x88435J3Upm55wdHFP84-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.051;exitY=0.26;exitDx=0;exitDy=0;entryX=1.009;entryY=0.62;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="RSRNca-7CVLnFXqqvEL2-1" target="x88435J3Upm55wdHFP84-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="350" as="sourcePoint" />
+            <mxPoint x="370" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x88435J3Upm55wdHFP84-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.235;exitY=0.032;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RSRNca-7CVLnFXqqvEL2-1" target="wnHRAtQ8zxTAquVMXQHa-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="350" as="sourcePoint" />
+            <mxPoint x="370" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x88435J3Upm55wdHFP84-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.725;exitY=0.041;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RSRNca-7CVLnFXqqvEL2-1" target="gi9_3N-FfZ0izFD0XtA_-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="350" as="sourcePoint" />
+            <mxPoint x="370" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x88435J3Upm55wdHFP84-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RSRNca-7CVLnFXqqvEL2-1" target="x88435J3Upm55wdHFP84-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="350" as="sourcePoint" />
+            <mxPoint x="370" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
